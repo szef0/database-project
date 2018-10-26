@@ -16,12 +16,7 @@ Operacje wykonywane na bazie danych:
 
 - listowanie produktów, zamówień, klientów i pracowników
 - dodawanie produktu
-- modyfikacja zamówienia
+- edycja produktu
+- edycja zamówienia
 - edycja pracownika
 - edycja klienta
-
-TO DO 
-- usuwanie produktu
-- dodawanie/usuwanie zamówienia
-- dodawanie/usuwanie klienta 
-- dodawanie/usuwanie pracownika 
