@@ -14,9 +14,14 @@ Członkowie zespołu:
 
 Operacje wykonywane na bazie danych:
 
-- wyszukiwanie (wypisywanie) szczegółów produktu
+- listowanie produktów, zamówień, klientów i pracowników
 - dodawanie produktu
-- usuwanie produktu
-- zamawianie produktu
 - modyfikacja zamówienia
-- anulowanie zamówienia
+- edycja pracownika
+- edycja klienta
+
+TO DO 
+- usuwanie produktu
+- dodawanie/usuwanie zamówienia
+- dodawanie/usuwanie klienta 
+- dodawanie/usuwanie pracownika 
